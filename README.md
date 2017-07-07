@@ -1,5 +1,5 @@
 # icantbelieveitsnotmirror
-Like a mirror, but worse. Were previously found at:
+Like a mirror, but worse. Was previously found at:
 
 [www.icantbelieveitsnotmirror.com](https://www.icantbelieveitsnotmirror.com/)
 -------------------------------------------------------------------------------
